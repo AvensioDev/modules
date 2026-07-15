@@ -4,8 +4,8 @@ repo: primefaces/primevue#master/packages/nuxt-module
 npm: '@primevue/nuxt-module'
 icon: primevue.svg
 github: https://github.com/primefaces/primevue
-website: https://primevue.org/
-learn_more: https://primevue.org/nuxt/
+website: https://primevue.dev/
+learn_more: https://primevue.dev/nuxt/
 category: UI
 type: 3rd-party
 maintainers:
