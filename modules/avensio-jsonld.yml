@@ -1,9 +1,8 @@
 name: avensio-jsonld
-description: >-
-  Build and manage route-aware Schema.org JSON-LD graphs in Nuxt.
+description: Build and manage route-aware Schema.org JSON-LD graphs in Nuxt.
 repo: AvensioDev/nuxt-jsonld
 npm: '@avensio/nuxt-jsonld'
-icon: 'avensio.svg'
+icon: avensio.svg
 github: https://github.com/AvensioDev/nuxt-jsonld
 website: https://docs.avensio.de/packages/nuxt-jsonld/docs/
 learn_more: https://docs.avensio.de/packages/nuxt-jsonld/docs/getting-started.html
